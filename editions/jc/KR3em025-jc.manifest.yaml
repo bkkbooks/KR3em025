@@ -1,0 +1,74 @@
+canonical_identifier: bkk:krp/KR3em025/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3em025/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 包氏喉證家寶
+  identifiers:
+    krp: KR3em025
+  tags:
+    kr-categories: KR3em
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3em025.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3em025_000-jc.yaml, hash: 'sha256:0a25e4c872710f568bd2fe2e59d8dc4938ae57f92c7cf7d212d3a779c3e23a03'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3em025_000-jc.markers.yaml, hash: 'sha256:9b3e73c2cb79063644ee43d5e5620cbd1c5492b07e82d4fe1528aab62b256607'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3em025_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 250
+  label: 咽喉總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em025_jc_000-d3.h1s1
+    span:
+    - body
+    - 250
+    - 2036
+  label: 條目
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em025_jc_000-d4.h1s1
+    span:
+    - body
+    - 2036
+    - 4112
+  label: 辨喉證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em025_jc_000-d5.h1s1
+    span:
+    - body
+    - 4112
+    - 6458
+  label: 附方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em025_jc_000-d6.h1s1
+    span:
+    - body
+    - 6458
+    - 9872
+  label: 咽喉七十二證考
+  type: section
+  level: 1
+hash: sha256:d070e0eb71f97bbbb6cc9f7e19c757cda54e8c04e323ba26809ebb089aeb1fac
