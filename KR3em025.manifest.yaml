@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3em025_000.yaml, hash: 'sha256:09e34bbd75cbf5ef5aa911f7ef4282b533bb941b8382f6b55f4fb291e01a1b9a'}
+  - {seq: 0, filename: KR3em025_000.yaml, hash: 'sha256:0a25e4c872710f568bd2fe2e59d8dc4938ae57f92c7cf7d212d3a779c3e23a03'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3em025_000.markers.yaml, hash: 'sha256:ee20c857d7206b676bf5370f5eec712a751262d7a8f4321995532149525d55f5'}
+  - {seq: 0, role: markers, filename: assets/KR3em025_000.markers.yaml, hash: 'sha256:aca80c202422be6fd5fb606e984db11864254579433ca2eca974ab9dd5f62690'}
 table_of_contents:
 - ref:
     seq: 0
@@ -71,7 +71,4 @@ table_of_contents:
   label: 咽喉七十二證考
   type: section
   level: 1
-hash: sha256:6104931892b1513e538e43f3ff8e47d77f353d30bd5570d17978d6bf5ac88341
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:0498a2a5ebc200f4d7ad0374d076616c1dfcbbab2cbd39d803039913b81f15fc
