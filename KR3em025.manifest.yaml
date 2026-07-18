@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3em025_000.yaml, hash: 'sha256:d35d760f1aeabb6a060cef062a50658bceda15da98bd019d72e7765a5a1362ee'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3em025_000.markers.yaml, hash: 'sha256:49e9287d3c1f4e5f666ee3ab669cd308ae74cbb54d76ba3448ad18c97c7f6875'}
+  - {seq: 0, role: markers, filename: assets/KR3em025_000.markers.yaml, hash: 'sha256:ab125e0bf95f55cbc50eb1ca19e9de910674730e3d95cd2bdad452b5417df5b4'}
 table_of_contents:
 - ref:
     seq: 0
@@ -71,7 +71,7 @@ table_of_contents:
   label: 咽喉七十二證考
   type: section
   level: 1
-hash: sha256:b86d61a2efeca3e510001b12c4d837750e28d99c2359bf9d7a7f8db401301dbe
+hash: sha256:8736713ff7eff42e17257d76669ad57de634eaa5f9b549107223cfbe15f2b175
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

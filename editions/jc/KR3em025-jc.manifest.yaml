@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3em025_000-jc.yaml, hash: 'sha256:0a25e4c872710f568bd2fe2e59d8dc4938ae57f92c7cf7d212d3a779c3e23a03'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3em025_000-jc.markers.yaml, hash: 'sha256:9b3e73c2cb79063644ee43d5e5620cbd1c5492b07e82d4fe1528aab62b256607'}
+  - {seq: 0, role: markers, filename: assets/KR3em025_000-jc.markers.yaml, hash: 'sha256:19ea0d3e09329913b1244d916da8aa045365f497b7676caabbb2639bd55df580'}
 table_of_contents:
 - ref:
     seq: 0
@@ -71,4 +71,4 @@ table_of_contents:
   label: 咽喉七十二證考
   type: section
   level: 1
-hash: sha256:d070e0eb71f97bbbb6cc9f7e19c757cda54e8c04e323ba26809ebb089aeb1fac
+hash: sha256:f98d4542bfa4069ae732ed9e4bc5173373eeda880e227dda25e1058aed79ad79
